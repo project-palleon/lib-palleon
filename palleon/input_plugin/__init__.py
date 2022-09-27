@@ -1,0 +1,1 @@
+from .input_plugin_abc import InputPlugin
